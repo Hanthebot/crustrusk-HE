@@ -3662,7 +3662,7 @@
 		)
 		(uuid "ff1eaea1-ede5-4534-9811-76e7eb7d2429")
 	)
-	(global_label "A2_3"
+	(global_label "MA2_3"
 		(shape input)
 		(at 104.14 207.01 0)
 		(fields_autoplaced yes)
@@ -3734,7 +3734,7 @@
 			)
 		)
 	)
-	(global_label "A2_2"
+	(global_label "MA2_2"
 		(shape output)
 		(at 125.73 100.33 0)
 		(fields_autoplaced yes)
@@ -3830,7 +3830,7 @@
 			)
 		)
 	)
-	(global_label "A3_6"
+	(global_label "MA3_6"
 		(shape input)
 		(at 195.58 198.12 0)
 		(fields_autoplaced yes)
@@ -3854,7 +3854,7 @@
 			)
 		)
 	)
-	(global_label "A2_2"
+	(global_label "MA2_2"
 		(shape input)
 		(at 104.14 196.85 0)
 		(fields_autoplaced yes)
@@ -3878,7 +3878,7 @@
 			)
 		)
 	)
-	(global_label "A2_3"
+	(global_label "MA2_3"
 		(shape output)
 		(at 160.02 101.6 0)
 		(fields_autoplaced yes)
@@ -3950,7 +3950,7 @@
 			)
 		)
 	)
-	(global_label "A0_4"
+	(global_label "MA0_4"
 		(shape input)
 		(at 148.59 190.5 0)
 		(fields_autoplaced yes)
@@ -4046,7 +4046,7 @@
 			)
 		)
 	)
-	(global_label "A1_6"
+	(global_label "MA1_6"
 		(shape output)
 		(at 128.27 157.48 0)
 		(fields_autoplaced yes)
@@ -4070,7 +4070,7 @@
 			)
 		)
 	)
-	(global_label "A1_4"
+	(global_label "MA1_4"
 		(shape input)
 		(at 148.59 193.04 0)
 		(fields_autoplaced yes)
@@ -4118,7 +4118,7 @@
 			)
 		)
 	)
-	(global_label "A3_3"
+	(global_label "MA3_3"
 		(shape output)
 		(at 160.02 99.06 0)
 		(fields_autoplaced yes)
@@ -4238,7 +4238,7 @@
 			)
 		)
 	)
-	(global_label "A3_4"
+	(global_label "MA3_4"
 		(shape input)
 		(at 148.59 198.12 0)
 		(fields_autoplaced yes)
@@ -4262,7 +4262,7 @@
 			)
 		)
 	)
-	(global_label "A3_2"
+	(global_label "MA3_2"
 		(shape input)
 		(at 104.14 199.39 0)
 		(fields_autoplaced yes)
@@ -4286,7 +4286,7 @@
 			)
 		)
 	)
-	(global_label "A3_0"
+	(global_label "MA3_0"
 		(shape input)
 		(at 57.15 199.39 0)
 		(fields_autoplaced yes)
@@ -4310,7 +4310,7 @@
 			)
 		)
 	)
-	(global_label "A2_0"
+	(global_label "MA2_0"
 		(shape output)
 		(at 124.46 72.39 0)
 		(fields_autoplaced yes)
@@ -4382,7 +4382,7 @@
 			)
 		)
 	)
-	(global_label "A3_7"
+	(global_label "MA3_7"
 		(shape output)
 		(at 161.29 152.4 0)
 		(fields_autoplaced yes)
@@ -4478,7 +4478,7 @@
 			)
 		)
 	)
-	(global_label "A1_5"
+	(global_label "MA1_5"
 		(shape input)
 		(at 148.59 203.2 0)
 		(fields_autoplaced yes)
@@ -4550,7 +4550,7 @@
 			)
 		)
 	)
-	(global_label "A2_4"
+	(global_label "MA2_4"
 		(shape input)
 		(at 148.59 195.58 0)
 		(fields_autoplaced yes)
@@ -4646,7 +4646,7 @@
 			)
 		)
 	)
-	(global_label "A3_7"
+	(global_label "MA3_7"
 		(shape input)
 		(at 195.58 208.28 0)
 		(fields_autoplaced yes)
@@ -4670,7 +4670,7 @@
 			)
 		)
 	)
-	(global_label "A0_3"
+	(global_label "MA0_3"
 		(shape input)
 		(at 104.14 201.93 0)
 		(fields_autoplaced yes)
@@ -4814,7 +4814,7 @@
 			)
 		)
 	)
-	(global_label "A1_3"
+	(global_label "MA1_3"
 		(shape output)
 		(at 160.02 104.14 0)
 		(fields_autoplaced yes)
@@ -4886,7 +4886,7 @@
 			)
 		)
 	)
-	(global_label "A2_7"
+	(global_label "MA2_7"
 		(shape input)
 		(at 195.58 205.74 0)
 		(fields_autoplaced yes)
@@ -4934,7 +4934,7 @@
 			)
 		)
 	)
-	(global_label "A1_7"
+	(global_label "MA1_7"
 		(shape input)
 		(at 195.58 203.2 0)
 		(fields_autoplaced yes)
@@ -4982,7 +4982,7 @@
 			)
 		)
 	)
-	(global_label "A3_1"
+	(global_label "MA3_1"
 		(shape input)
 		(at 57.15 209.55 0)
 		(fields_autoplaced yes)
@@ -5006,7 +5006,7 @@
 			)
 		)
 	)
-	(global_label "A0_5"
+	(global_label "MA0_5"
 		(shape output)
 		(at 161.29 133.35 0)
 		(fields_autoplaced yes)
@@ -5078,7 +5078,7 @@
 			)
 		)
 	)
-	(global_label "A0_5"
+	(global_label "MA0_5"
 		(shape input)
 		(at 148.59 200.66 0)
 		(fields_autoplaced yes)
@@ -5126,7 +5126,7 @@
 			)
 		)
 	)
-	(global_label "A2_5"
+	(global_label "MA2_5"
 		(shape input)
 		(at 148.59 205.74 0)
 		(fields_autoplaced yes)
@@ -5198,7 +5198,7 @@
 			)
 		)
 	)
-	(global_label "A1_0"
+	(global_label "MA1_0"
 		(shape output)
 		(at 124.46 74.93 0)
 		(fields_autoplaced yes)
@@ -5222,7 +5222,7 @@
 			)
 		)
 	)
-	(global_label "A3_6"
+	(global_label "MA3_6"
 		(shape output)
 		(at 128.27 152.4 0)
 		(fields_autoplaced yes)
@@ -5246,7 +5246,7 @@
 			)
 		)
 	)
-	(global_label "A0_6"
+	(global_label "MA0_6"
 		(shape output)
 		(at 128.27 160.02 0)
 		(fields_autoplaced yes)
@@ -5270,7 +5270,7 @@
 			)
 		)
 	)
-	(global_label "A1_2"
+	(global_label "MA1_2"
 		(shape input)
 		(at 104.14 194.31 0)
 		(fields_autoplaced yes)
@@ -5294,7 +5294,7 @@
 			)
 		)
 	)
-	(global_label "A1_5"
+	(global_label "MA1_5"
 		(shape output)
 		(at 161.29 130.81 0)
 		(fields_autoplaced yes)
@@ -5318,7 +5318,7 @@
 			)
 		)
 	)
-	(global_label "A0_7"
+	(global_label "MA0_7"
 		(shape input)
 		(at 195.58 200.66 0)
 		(fields_autoplaced yes)
@@ -5342,7 +5342,7 @@
 			)
 		)
 	)
-	(global_label "A1_1"
+	(global_label "MA1_1"
 		(shape input)
 		(at 57.15 204.47 0)
 		(fields_autoplaced yes)
@@ -5366,7 +5366,7 @@
 			)
 		)
 	)
-	(global_label "A1_3"
+	(global_label "MA1_3"
 		(shape input)
 		(at 104.14 204.47 0)
 		(fields_autoplaced yes)
@@ -5390,7 +5390,7 @@
 			)
 		)
 	)
-	(global_label "A2_1"
+	(global_label "MA2_1"
 		(shape input)
 		(at 57.15 207.01 0)
 		(fields_autoplaced yes)
@@ -5414,7 +5414,7 @@
 			)
 		)
 	)
-	(global_label "A2_4"
+	(global_label "MA2_4"
 		(shape output)
 		(at 127 125.73 0)
 		(fields_autoplaced yes)
@@ -5438,7 +5438,7 @@
 			)
 		)
 	)
-	(global_label "A3_2"
+	(global_label "MA3_2"
 		(shape output)
 		(at 125.73 97.79 0)
 		(fields_autoplaced yes)
@@ -5486,7 +5486,7 @@
 			)
 		)
 	)
-	(global_label "A3_3"
+	(global_label "MA3_3"
 		(shape input)
 		(at 104.14 209.55 0)
 		(fields_autoplaced yes)
@@ -5510,7 +5510,7 @@
 			)
 		)
 	)
-	(global_label "A1_0"
+	(global_label "MA1_0"
 		(shape input)
 		(at 57.15 194.31 0)
 		(fields_autoplaced yes)
@@ -5582,7 +5582,7 @@
 			)
 		)
 	)
-	(global_label "A0_3"
+	(global_label "MA0_3"
 		(shape output)
 		(at 160.02 106.68 0)
 		(fields_autoplaced yes)
@@ -5630,7 +5630,7 @@
 			)
 		)
 	)
-	(global_label "A0_1"
+	(global_label "MA0_1"
 		(shape output)
 		(at 158.75 77.47 0)
 		(fields_autoplaced yes)
@@ -5654,7 +5654,7 @@
 			)
 		)
 	)
-	(global_label "A1_6"
+	(global_label "MA1_6"
 		(shape input)
 		(at 195.58 193.04 0)
 		(fields_autoplaced yes)
@@ -5822,7 +5822,7 @@
 			)
 		)
 	)
-	(global_label "A2_6"
+	(global_label "MA2_6"
 		(shape output)
 		(at 128.27 154.94 0)
 		(fields_autoplaced yes)
@@ -5870,7 +5870,7 @@
 			)
 		)
 	)
-	(global_label "A1_1"
+	(global_label "MA1_1"
 		(shape output)
 		(at 158.75 74.93 0)
 		(fields_autoplaced yes)
@@ -5894,7 +5894,7 @@
 			)
 		)
 	)
-	(global_label "A1_4"
+	(global_label "MA1_4"
 		(shape output)
 		(at 127 128.27 0)
 		(fields_autoplaced yes)
@@ -6014,7 +6014,7 @@
 			)
 		)
 	)
-	(global_label "A2_1"
+	(global_label "MA2_1"
 		(shape output)
 		(at 158.75 72.39 0)
 		(fields_autoplaced yes)
@@ -6038,7 +6038,7 @@
 			)
 		)
 	)
-	(global_label "A3_4"
+	(global_label "MA3_4"
 		(shape output)
 		(at 127 123.19 0)
 		(fields_autoplaced yes)
@@ -6086,7 +6086,7 @@
 			)
 		)
 	)
-	(global_label "A0_4"
+	(global_label "MA0_4"
 		(shape output)
 		(at 127 130.81 0)
 		(fields_autoplaced yes)
@@ -6110,7 +6110,7 @@
 			)
 		)
 	)
-	(global_label "A3_5"
+	(global_label "MA3_5"
 		(shape input)
 		(at 148.59 208.28 0)
 		(fields_autoplaced yes)
@@ -6158,7 +6158,7 @@
 			)
 		)
 	)
-	(global_label "A3_1"
+	(global_label "MA3_1"
 		(shape output)
 		(at 158.75 69.85 0)
 		(fields_autoplaced yes)
@@ -6254,7 +6254,7 @@
 			)
 		)
 	)
-	(global_label "A3_0"
+	(global_label "MA3_0"
 		(shape output)
 		(at 124.46 69.85 0)
 		(fields_autoplaced yes)
@@ -6374,7 +6374,7 @@
 			)
 		)
 	)
-	(global_label "A0_1"
+	(global_label "MA0_1"
 		(shape input)
 		(at 57.15 201.93 0)
 		(fields_autoplaced yes)
@@ -6542,7 +6542,7 @@
 			)
 		)
 	)
-	(global_label "A0_0"
+	(global_label "MA0_0"
 		(shape output)
 		(at 124.46 77.47 0)
 		(fields_autoplaced yes)
@@ -6590,7 +6590,7 @@
 			)
 		)
 	)
-	(global_label "A2_0"
+	(global_label "MA2_0"
 		(shape input)
 		(at 57.15 196.85 0)
 		(fields_autoplaced yes)
@@ -6614,7 +6614,7 @@
 			)
 		)
 	)
-	(global_label "A0_0"
+	(global_label "MA0_0"
 		(shape input)
 		(at 57.15 191.77 0)
 		(fields_autoplaced yes)
@@ -6662,7 +6662,7 @@
 			)
 		)
 	)
-	(global_label "A0_6"
+	(global_label "MA0_6"
 		(shape input)
 		(at 195.58 190.5 0)
 		(fields_autoplaced yes)
@@ -6734,7 +6734,7 @@
 			)
 		)
 	)
-	(global_label "A2_6"
+	(global_label "MA2_6"
 		(shape input)
 		(at 195.58 195.58 0)
 		(fields_autoplaced yes)
@@ -6758,7 +6758,7 @@
 			)
 		)
 	)
-	(global_label "A1_2"
+	(global_label "MA1_2"
 		(shape output)
 		(at 125.73 102.87 0)
 		(fields_autoplaced yes)
@@ -6782,7 +6782,7 @@
 			)
 		)
 	)
-	(global_label "A1_7"
+	(global_label "MA1_7"
 		(shape output)
 		(at 161.29 157.48 0)
 		(fields_autoplaced yes)
@@ -6806,7 +6806,7 @@
 			)
 		)
 	)
-	(global_label "A0_7"
+	(global_label "MA0_7"
 		(shape output)
 		(at 161.29 160.02 0)
 		(fields_autoplaced yes)
@@ -6854,7 +6854,7 @@
 			)
 		)
 	)
-	(global_label "A0_2"
+	(global_label "MA0_2"
 		(shape output)
 		(at 125.73 105.41 0)
 		(fields_autoplaced yes)
@@ -6878,7 +6878,7 @@
 			)
 		)
 	)
-	(global_label "A0_2"
+	(global_label "MA0_2"
 		(shape input)
 		(at 104.14 191.77 0)
 		(fields_autoplaced yes)
@@ -6926,7 +6926,7 @@
 			)
 		)
 	)
-	(global_label "A2_7"
+	(global_label "MA2_7"
 		(shape output)
 		(at 161.29 154.94 0)
 		(fields_autoplaced yes)
@@ -6974,7 +6974,7 @@
 			)
 		)
 	)
-	(global_label "A3_5"
+	(global_label "MA3_5"
 		(shape output)
 		(at 161.29 125.73 0)
 		(fields_autoplaced yes)
@@ -7094,7 +7094,7 @@
 			)
 		)
 	)
-	(global_label "A2_5"
+	(global_label "MA2_5"
 		(shape output)
 		(at 161.29 128.27 0)
 		(fields_autoplaced yes)
@@ -9148,7 +9148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95261c2d-4fce-45fb-b1b3-64fc9c3afc01")
-		(property "Reference" "C1"
+		(property "Reference" "C-M-1"
 			(at 38.1 185.4262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9212,7 +9212,7 @@
 		(instances
 			(project "main_board"
 				(path "/9e72c485-61d0-44fa-96a5-46ca12df99d7"
-					(reference "C1")
+					(reference "C-M-1")
 					(unit 1)
 				)
 			)
@@ -9397,7 +9397,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9be8cfc-272f-4d00-b0df-0aa9e3555a38")
-		(property "Reference" "C3"
+		(property "Reference" "C-M-3"
 			(at 129.54 184.1562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9461,7 +9461,7 @@
 		(instances
 			(project "main_board"
 				(path "/9e72c485-61d0-44fa-96a5-46ca12df99d7"
-					(reference "C3")
+					(reference "C-M-3")
 					(unit 1)
 				)
 			)
@@ -9565,7 +9565,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bad8b1b2-ec24-439c-9039-51e48f65bf7a")
-		(property "Reference" "C2"
+		(property "Reference" "C-M-2"
 			(at 85.09 185.4262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9629,7 +9629,7 @@
 		(instances
 			(project "main_board"
 				(path "/9e72c485-61d0-44fa-96a5-46ca12df99d7"
-					(reference "C2")
+					(reference "C-M-2")
 					(unit 1)
 				)
 			)
@@ -10209,7 +10209,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec490acb-1b01-4c2d-a424-e21579effa9d")
-		(property "Reference" "C4"
+		(property "Reference" "C-M-4"
 			(at 176.53 184.1562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10273,7 +10273,7 @@
 		(instances
 			(project "main_board"
 				(path "/9e72c485-61d0-44fa-96a5-46ca12df99d7"
-					(reference "C4")
+					(reference "C-M-4")
 					(unit 1)
 				)
 			)
